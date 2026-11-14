@@ -1,6 +1,6 @@
 {
   "author": "莲藕森林",
-  "authorInfo": "《42号平行宇宙》关卡合集。在这个平行宇宙中，部分植物和僵尸的能力发生了改变。",
+  "authorInfo": "莲藕森林制作的《42号平行宇宙》休闲关卡合集。部分植物的能力发生了改变，体验不同的植物搭配与玩法。",
   "levelList": [
     {
       "fileName": "Parallel_Universe_42_01.json",
@@ -18,7 +18,7 @@
         "Version": "1.0",
         "CreatedAt": "2026-11-14",
         "UpdatedAt": "2026-11-14",
-        "Difficulty": "Hard",
+        "Difficulty": "Easy",
         "Category": "Survival"
       }
     }
