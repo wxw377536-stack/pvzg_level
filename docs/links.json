@@ -19,6 +19,9 @@
         },
         "Enigma": {
             "location": "/custom/Enigma/links.json"
+        },
+        "Parallel_Universe_42": {
+            "location": "/custom/LotusForest/Parallel_Universe_42/links.json"
         }
     }
 }
