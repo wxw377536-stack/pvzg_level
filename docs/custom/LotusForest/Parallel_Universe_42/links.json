@@ -1,0 +1,26 @@
+{
+  "author": "莲藕森林",
+  "authorInfo": "《42号平行宇宙》关卡合集。在这个平行宇宙中，部分植物和僵尸的能力发生了改变。",
+  "levelList": [
+    {
+      "fileName": "Parallel_Universe_42_01.json",
+      "Information": {
+        "uuid": "154b1a04-55f3-470d-826a-5741c44ded04",
+        "name": {
+          "en": "Parallel Universe 42 - Night 1",
+          "zh-CN": "42号平行宇宙 第1夜"
+        },
+        "Introduction": {
+          "en": "Welcome to Parallel Universe 42.",
+          "zh-CN": "欢迎来到42号平行宇宙。"
+        },
+        "GameVersion": "0.16.26",
+        "Version": "1.0",
+        "CreatedAt": "2026-11-14",
+        "UpdatedAt": "2026-11-14",
+        "Difficulty": "Hard",
+        "Category": "Survival"
+      }
+    }
+  ]
+}
